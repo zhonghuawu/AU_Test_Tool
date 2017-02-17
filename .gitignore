@@ -2,5 +2,9 @@
 *.suo
 *.ncb
 IAU/*
-AU*/*
+AU2861039/*
 Debug/*
+*/Debug/*
+objs/
+.vcproj*
+*/docs/*

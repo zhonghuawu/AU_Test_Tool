@@ -1,0 +1,459 @@
+[2017/02/16 11:34:33]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from /home/zh/AU_Test_Tool/AU2861039/ubuntu8/debug/bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 28
+	Update failed: ActiveUpdate was unable to connect to the network. Please verify that the network connection is functional, and then try again.
+
+	Done!
+[2017/02/16 11:34:34]	finish Test Function Processor.
+
+[2017/02/16 11:56:14]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from /home/zh/AU_Test_Tool/AU2861039/ubuntu8/debug/bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 28
+	Update failed: ActiveUpdate was unable to connect to the network. Please verify that the network connection is functional, and then try again.
+
+	Done!
+[2017/02/16 11:56:14]	finish Test Function Processor.
+
+[2017/02/16 12:10:52]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from /home/zh/AU_Test_Tool/AU2861039/ubuntu8/debug/bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 46
+	Update failed: ActiveUpdate was unable to merge the incremental patch file. Please try again. If the problem persists, contact your Trend Micro technical support provider.
+
+	Done!
+[2017/02/16 12:10:53]	finish Test Function Processor.
+
+[2017/02/16 12:19:42]	start Test Function Processor.
+	Get BuildPath from section BuildPath failed.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU failed.
+	AU path: (null)
+
+	init Environment failed!
+[2017/02/16 12:20:04]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU failed.
+	AU path: /home/zh/AU_Test_Tool/IAU/redhat64/client/bin
+
+	init Environment failed!
+[2017/02/16 12:23:10]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU failed.
+	AU path: /home/zh/AU_Test_Tool/IAU/redhat64/client/bin
+
+	init Environment failed!
+[2017/02/16 12:25:05]	start Test Function Processor.
+	get source information:
+    <iau_configuration version="1.0">
+        <index>
+            <server>https://dual-iaus-beta.trendmicro.com/iau_server.dll/</server>
+        </index>
+        <network>
+            <username>administrator</username>
+            <password>trend#1..</password>
+            <retry_times>3</retry_times>
+            <bandwidth_limit>0</bandwidth_limit>
+        </network>
+        <data>
+            <directory>testdata</directory>
+            <reserved>false</reserved>
+        </data>
+    </iau_configuration>
+	
+	2 product(s) need to handle...
+    <product_information version="1.0.0">
+        <products id="c17t1700v6.0.0l1p1r1o1">
+            <product id="c9t900v2.5.0l1p1r1o1">
+                <path>test1</path>
+                <install>D:\zhonghua\test\iausdk_test_temp</install>
+                <components>
+                    <component version="0" class="3" type="536871936" platform="-1" language="-1" region="-1" oem="-1">
+                        <path>test1</path>
+                        <install>test1</install>
+                    </component>
+                    <component version="0" class="3" type="1208090624" platform="-1" language="-1" region="-1" oem="-1" />
+                    <component version="0" class="3" type="2048" platform="-1" language="-1" region="-1" oem="-1" />
+                </components>
+            </product>
+            <product id="c17t1700v6.0.0l1p1r1o1">
+                <path>D:\zhonghua\test\iausdk_test_temp</path>
+                <install>D:\zhonghua\test\iausdk_test_temp</install>
+                <components>
+                    <component version="1" class="3" type="67108865" platform="-1" language="-1" region="-1" oem="-1" />
+                    <component version="1" class="17" type="1752" platform="-1" language="-1" region="1" oem="1" />
+                </components>
+            </product>
+        </products>
+    </product_information>
+    <product_information version="1.0.0">
+        <products id="c9t900v2.5.0l1p1r1o1">
+            <product id="c9t900v2.5.0l1p1r1o1">
+                <path>D:\zhonghua\test\iausdk_test_temp</path>
+                <install>D:\zhonghua\test\iausdk_test_temp</install>
+                <components>
+                    <component version="10000" class="3" type="975" platform="-1" language="-1" region="-1" oem="-1" />
+                    <component version="107300" class="3" type="1208221733" platform="1" language="1" region="-1" oem="-1" />
+                </components>
+            </product>
+        </products>
+    </product_information>
+	
+	Load iau from /home/zh/AU_Test_Tool/IAU/redhat64/client/bin\iau.so failed!
+[2017/02/16 12:25:58]	start Test Function Processor.
+	get source information:
+    <iau_configuration version="1.0">
+        <index>
+            <server>https://dual-iaus-beta.trendmicro.com/iau_server.dll/</server>
+        </index>
+        <network>
+            <username>administrator</username>
+            <password>trend#1..</password>
+            <retry_times>3</retry_times>
+            <bandwidth_limit>0</bandwidth_limit>
+        </network>
+        <data>
+            <directory>testdata</directory>
+            <reserved>false</reserved>
+        </data>
+    </iau_configuration>
+	
+	2 product(s) need to handle...
+    <product_information version="1.0.0">
+        <products id="c17t1700v6.0.0l1p1r1o1">
+            <product id="c9t900v2.5.0l1p1r1o1">
+                <path>test1</path>
+                <install>D:\zhonghua\test\iausdk_test_temp</install>
+                <components>
+                    <component version="0" class="3" type="536871936" platform="-1" language="-1" region="-1" oem="-1">
+                        <path>test1</path>
+                        <install>test1</install>
+                    </component>
+                    <component version="0" class="3" type="1208090624" platform="-1" language="-1" region="-1" oem="-1" />
+                    <component version="0" class="3" type="2048" platform="-1" language="-1" region="-1" oem="-1" />
+                </components>
+            </product>
+            <product id="c17t1700v6.0.0l1p1r1o1">
+                <path>D:\zhonghua\test\iausdk_test_temp</path>
+                <install>D:\zhonghua\test\iausdk_test_temp</install>
+                <components>
+                    <component version="1" class="3" type="67108865" platform="-1" language="-1" region="-1" oem="-1" />
+                    <component version="1" class="17" type="1752" platform="-1" language="-1" region="1" oem="1" />
+                </components>
+            </product>
+        </products>
+    </product_information>
+    <product_information version="1.0.0">
+        <products id="c9t900v2.5.0l1p1r1o1">
+            <product id="c9t900v2.5.0l1p1r1o1">
+                <path>D:\zhonghua\test\iausdk_test_temp</path>
+                <install>D:\zhonghua\test\iausdk_test_temp</install>
+                <components>
+                    <component version="10000" class="3" type="975" platform="-1" language="-1" region="-1" oem="-1" />
+                    <component version="107300" class="3" type="1208221733" platform="1" language="1" region="-1" oem="-1" />
+                </components>
+            </product>
+        </products>
+    </product_information>
+	
+	Load iau from /home/zh/AU_Test_Tool/IAU/redhat64/client/bin/libiau.so successfully!
+	The progress is running now, start to Update. please wait...
+	1 times to update...
+	update product 1 failed!
+	update product 2 failed!
+	At least one product is failed to update using iau!
+	Done!
+[2017/02/16 12:28:56]	finish Test Function Processor.
+
+[2017/02/16 13:26:19]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU failed.
+	AU path: /home/zh/AU_Test_Tool/IAU/redhat64/client/bin
+
+	init Environment failed!
+[2017/02/16 13:27:06]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU failed.
+	AU path: D:\zhonghua\Project\AU_Test_Tool\AU\debug\bin
+
+	init Environment failed!
+[2017/02/16 13:27:46]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = /home/zh/patterns/
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from D:\zhonghua\Project\AU_Test_Tool\AU2861039\Win32VC80SP1\debug\bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 12
+	Update failed: The product has passed invalid parameters to ActiveUpdate. Please contact your Trend Micro technical support provider.
+
+	Done!
+[2017/02/16 13:27:46]	finish Test Function Processor.
+
+[2017/02/16 13:28:16]	start Test Function Processor.
+	Get informations from server: /home/zh/server
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = D:\zhonghua\test\pattern
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from D:\zhonghua\Project\AU_Test_Tool\AU2861039\Win32VC80SP1\debug\bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 12
+	Update failed: The product has passed invalid parameters to ActiveUpdate. Please contact your Trend Micro technical support provider.
+
+	Done!
+[2017/02/16 13:28:16]	finish Test Function Processor.
+
+[2017/02/16 13:28:54]	start Test Function Processor.
+	Get informations from server: (null)
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = D:\zhonghua\test\pattern中文
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from D:\zhonghua\Project\AU_Test_Tool\AU2861039\Win32VC80SP1\debug\bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 12
+	Update failed: The product has passed invalid parameters to ActiveUpdate. Please contact your Trend Micro technical support provider.
+
+	Done!
+[2017/02/16 13:28:54]	finish Test Function Processor.
+
+[2017/02/16 13:29:13]	start Test Function Processor.
+	Get informations from server: D:\zhonghua\test\server\服务器
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = D:\zhonghua\test\pattern中文
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	
+	Load AU from D:\zhonghua\Project\AU_Test_Tool\AU2861039\Win32VC80SP1\debug\bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 0
+	Update success.
+		From version: 128700
+		To version: 129500
+	Done!
+[2017/02/16 13:29:45]	finish Test Function Processor.
+
+[2017/02/17 13:29:30]	start Test Function Processor.
+	Get informations from server: D:\zhonghua\test\server\服务器
+	1 item(s) need to handle...
+	Item[1].class            = 3
+	Item[1].type             = 0x4
+	Item[1].action           = 0x0
+	Item[1].originVersion    = 128700
+	Item[1].language         = 0
+	Item[1].platform         = 0
+	Item[1].DestFolder       = D:\zhonghua\test\pattern中文
+	Item[1].UserName         = test
+	Item[1].PassWord         = testtest
+	Item[1].bAddConnection   = (null)
+	Item[1].bDelConnection   = 0
+	Load AU from D:\zhonghua\Project\AU_Test_Tool\AU2861039\Win32VC80SP1\debug\bin successfully!
+	The progress is running now, start to Set property. please wait...
+	Set Property: KeptPatternMaxCount = 4 succeed.
+	Set Property: RetryCount = 2 succeed.
+	Set Property: SocketTimeout = 125 succeed.
+	Set Property: InfoHttpsLevel = 1 succeed.
+	All Properties set successfully.
+	The progress is running now, start to Update. please wait...
+	1 times to Update...
+	TmuUpdateEx returns: 0
+	Update success.
+		From version: 128700
+		To version: 129500
+	Done!
+[2017/02/17 13:29:51]	finish Test Function Processor.
+
