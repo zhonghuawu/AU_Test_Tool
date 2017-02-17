@@ -1,0 +1,6 @@
+*.sln
+*.suo
+*.ncb
+IAU/*
+AU*/*
+Debug/*
