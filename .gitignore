@@ -6,5 +6,6 @@ AU2861039/*
 Debug/*
 */Debug/*
 objs/
-.vcproj*
+*.vcproj*
 */docs/*
+*.html
