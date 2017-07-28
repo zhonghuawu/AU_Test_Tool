@@ -66,7 +66,7 @@ properties about TmuUpdateEx. IAUTestUpdate overwrites initEnv and finalEnv beca
 IAU_Update and IAU_Duplicate load different dynamic link library (iau.dll and iaurelay.dll on 
 windows platform and iau.so and iaurelay.so on linux platform).
 #### 2.2.6 Inheritance relationship
-The TestFunc inheritance relationship is illustrated as follow:
+The TestFunc inheritance relationship is illustrated as follow: <br>
 ![image](https://github.com/zhonghuawu/AU_Test_Tool/blob/master/image/inheritance.png)
 #### 2.2.7 TestFuncFactory
 TestFuncFactory is designed by class singleton pattern. It has only some static methods, 

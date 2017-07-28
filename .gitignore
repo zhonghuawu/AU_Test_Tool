@@ -9,3 +9,4 @@ objs/
 *.vcproj*
 */docs/*
 *.html
+*.*vsdx
