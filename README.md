@@ -113,17 +113,17 @@ The usage of tool is very simple. The important and key things is configuring th
 file. All information required by tool are from configuration file. 
 * WIN32 platform: <br>
 Using VS2008 to compile project. Generating an executable file AU_Test_Tool.exe in path AU_Test_Tool/debug/.
-Usage in windows console:
-** AU_Test_Tool.exe -h //help information
-** AU_Test_Tool.exe [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.
+Usage in windows console:<br>
+AU_Test_Tool.exe -h //help information<br>
+AU_Test_Tool.exe [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.<br>
 * LINUX platform: <br>
 Using make tool and g++ to compile project. Makefile is placed in AU_Test_Tool/AU_Test_Tool/.
 Using make command can compile project automatically. Using make -clean option can clean procedure file.
 More option of make command, please look at Makefile. 
 Generation an executable file AU_Test_Tool in the same path with Makefile.
-Usage in Linux terminal:
-** ./AU_Test_Tool -h //help information
-** ./AU_Test_Tool [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.
+Usage in Linux terminal: <br>
+./AU_Test_Tool -h //help information <br>
+./AU_Test_Tool [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted. <br>
 
 ### 4.2 Configuration file 
 Configuration file is very important for tool. All information required by tool is from it.
