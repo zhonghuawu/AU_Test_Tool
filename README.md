@@ -133,29 +133,31 @@ Configuration file is very important for tool. All information required by tool 
 Default configuration file is toolcfg.ini. Specified configuration file can be used if the file 
 name should be introduced to AU_Test_Tool.
 The toolcfg.ini sample as [this](https://github.com/zhonghuawu/AU_Test_Tool/blob/master/AU_Test_Tool/toolcfg.ini).
+
 Not all the sections will be used. Not all the sections will be required from different 
 function tested. The whole configuration file will be loaded into memory when the tool start. 
 The parts required by function tested will be used. Other will be ignored. So according to 
-function tested, the sections required (or maybe called “used”) must be configured exactly.
-[BuildPath] section provides buildPath of AU/iAU.
+function tested, the sections required (or maybe called “used”) must be configured exactly. <br>
+[BuildPath] section provides buildPath of AU/iAU. <br>
 [ProcessType] section provides processName. ProcessName can be one of [Update | 
-Duplicate | Set | Get | Rollback | NULL].
+Duplicate | Set | Get | Rollback | NULL]. <br>
 [Property] section is optional. If processName is Get, this section provides properties 
-which should be got.
+which should be got. <br>
 [AUConfiguration] section provides serverUrl and correlated information about serverUrl
 for AU. This section also provides properties information if the processName is one of [Update 
-| Duplicat | Set].
+| Duplicat | Set]. <br>
 [IAUConfiguration] section provides serverUrl and correlated information about serverUrl
-for IAU Update. 
+for IAU Update.  <br>
 [IAURelayConfiguration] section provides serverUrl and correlated information about 
-serverUrl for IAU Duplicate.
+serverUrl for IAU Duplicate. <br>
 [ItemsInfo] section provides Items Information for AU. If an item i should be ignored, you 
-can just annotate Item[i].class. 
+can just annotate Item[i].class.  <br>
 [ProductsInfo] section provides products information for IAU. If a product i should be 
 ignored, you can just annotate Product[i].MainPro. if a sub product N from product i should be 
 ignored, you can just annotate Product[i].SubProN. Tool reads products information required 
-by iAU and transfer them to xml format.
-Notice:
+by iAU and transfer them to xml format. <br>
+
+* Notice:
 The configuration file support to Chinese characters. The path with Chinese characters 
 configured by file can be recognized exactly. The configuration file can recognize octal(0nn), 
 decimal(nn) and hexadecimal(0xnn) number accurately.
