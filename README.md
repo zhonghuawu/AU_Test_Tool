@@ -1,6 +1,6 @@
 # AU_Test_Tool
-AU Test Tool: automate to test AU and iAU function 
+AU Test Tool: automating testing AU and iAU function.
 
-At the period of trendmicro intern, I did this project by myself.
+At the period of trendmicro intern, I finished this project by myself.
 
 using c++ polymorphism and simple factory design pattern for enhancing project expansibility.
