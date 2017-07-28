@@ -111,22 +111,19 @@ The folder TestLog contains source files for logging.
 ### 4.1 Usage
 The usage of tool is very simple. The important and key things is configuring the toolcfg.ini 
 file. All information required by tool are from configuration file. 
-WIN32 platform:
-Using VS2008 to compile project. Generating an executable file AU_Test_Tool.exe in path 
-AU_Test_Tool/debug/.
+* WIN32 platform:
+Using VS2008 to compile project. Generating an executable file AU_Test_Tool.exe in path AU_Test_Tool/debug/.
 Usage in windows console:
-AU_Test_Tool.exe -h //help information
-AU_Test_Tool.exe [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.
-LINUX platform:
-Using make tool and g++ to compile project. Makefile is placed in
-AU_Test_Tool/AU_Test_Tool/.
-Using make command can compile project automatically. Using make -clean option can 
-clean procedure file.
+	AU_Test_Tool.exe -h //help information
+	AU_Test_Tool.exe [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.
+* LINUX platform:
+Using make tool and g++ to compile project. Makefile is placed in AU_Test_Tool/AU_Test_Tool/.
+Using make command can compile project automatically. Using make -clean option can clean procedure file.
 More option of make command, please look at Makefile. 
 Generation an executable file AU_Test_Tool in the same path with Makefile.
 Usage in Linux terminal:
-./AU_Test_Tool -h //help information
-./AU_Test_Tool [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.
+	./AU_Test_Tool -h //help information
+	./AU_Test_Tool [-u] [-m] [-l] [cfgname.ini] // toolcfg.ini default if omitted.
 
 ### 4.2 Configuration file 
 Configuration file is very important for tool. All information required by tool is from it.
@@ -157,7 +154,7 @@ ignored, you can just annotate Product[i].MainPro. if a sub product N from produ
 ignored, you can just annotate Product[i].SubProN. Tool reads products information required 
 by iAU and transfer them to xml format. <br>
 
-** Notice:
+Notice:
 The configuration file support to Chinese characters. The path with Chinese characters 
 configured by file can be recognized exactly. The configuration file can recognize octal(0nn), 
 decimal(nn) and hexadecimal(0xnn) number accurately.
