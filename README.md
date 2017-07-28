@@ -196,7 +196,7 @@ If others library similar with AU or iAU want to be tested, you should define a 
 with AUTestFunc or IAUTestFunc from second layer of inheritance relationship graph in section 
 2.2.6. You should create some new concrete class derived from new class (**TestFunc) and 
 inform TestFuncFactory how to create its instance.
-###7 Notice
+## 7 Notice
 1. The Log path can be introduced into LogInit as formal parameter to alter the log path.
 The default value is current path if nothing is introduced to LogInit. And the log file
 name is Test.log default defined in TestLog class as static constant attribute. It can be 
